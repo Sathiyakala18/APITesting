@@ -36,4 +36,4 @@ public class WritePOJO {
 		mapper.writeValue(file, r1);
 	}
 
-}
+}good 
